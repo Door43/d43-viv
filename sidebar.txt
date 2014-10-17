@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[viv:home|Door43 (viv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-viv|d43-viv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-viv/archive/master.zip|d43-viv.zip]]
+
+**Recent Changes**
+{{changes>ns = viv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/viv|Ethnologue data]]
+
